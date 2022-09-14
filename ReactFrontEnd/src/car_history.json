@@ -1,0 +1,170 @@
+[
+    {
+        "duration": 257,
+        "intime": "21:32:33",
+        "outtime": "21:36:51",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 12,
+        "intime": "09:13:48",
+        "outtime": "09:14:01",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 10,
+        "intime": "15:19:17",
+        "outtime": "15:19:28",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 13,
+        "intime": "15:22:45",
+        "outtime": "15:22:59",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 10,
+        "intime": "15:24:01",
+        "outtime": "15:24:12",
+        "user_id": 133255188585
+    },
+    {
+        "duration": 50,
+        "intime": "15:25:52",
+        "outtime": "15:26:43",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 11,
+        "intime": "15:26:59",
+        "outtime": "15:27:11",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 22,
+        "intime": "16:57:55",
+        "outtime": "16:58:18",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 16,
+        "intime": "17:07:01",
+        "outtime": "17:07:18",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 15,
+        "intime": "17:13:05",
+        "outtime": "17:13:20",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 13,
+        "intime": "17:32:10",
+        "outtime": "17:32:24",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 0,
+        "intime": "17:46:32",
+        "outtime": "17:46:32",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 53,
+        "intime": "17:49:07",
+        "outtime": "17:50:00",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 30,
+        "intime": "17:54:41",
+        "outtime": "17:55:12",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 18,
+        "intime": "16:19:19",
+        "outtime": "16:19:38",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 17,
+        "intime": "16:25:03",
+        "outtime": "16:25:20",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 55,
+        "intime": "18:13:23",
+        "outtime": "18:14:19",
+        "user_id": 512047058208
+    },
+    {
+        "duration": 114,
+        "intime": "18:15:30",
+        "outtime": "18:17:24",
+        "user_id": 512047058208
+    },
+    {
+        "duration": 64,
+        "intime": "18:17:56",
+        "outtime": "18:19:00",
+        "user_id": 512047058208
+    },
+    {
+        "duration": 113,
+        "intime": "18:19:49",
+        "outtime": "18:21:43",
+        "user_id": 512047058208
+    },
+    {
+        "duration": 64,
+        "intime": "18:23:36",
+        "outtime": "18:24:41",
+        "user_id": 512047058208
+    },
+    {
+        "duration": 25,
+        "intime": "18:32:41",
+        "outtime": "18:33:06",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 13,
+        "intime": "18:36:03",
+        "outtime": "18:36:17",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 63,
+        "intime": "18:36:43",
+        "outtime": "18:37:47",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 117,
+        "intime": "18:38:36",
+        "outtime": "18:40:33",
+        "user_id": 701792063941
+    },
+    {
+        "duration": 19,
+        "intime": "18:52:01",
+        "outtime": "18:52:20",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 19,
+        "intime": "18:52:46",
+        "outtime": "18:53:05",
+        "user_id": 584208811781
+    },
+    {
+        "duration": 26,
+        "intime": "15:33:41",
+        "outtime": "15:34:08",
+        "user_id": 512047058208
+    }
+]
